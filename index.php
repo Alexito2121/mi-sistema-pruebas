@@ -1,3 +1,7 @@
+<?php
+// Forzando detección de PHP
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
